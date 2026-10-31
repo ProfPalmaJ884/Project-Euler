@@ -25,7 +25,13 @@ El objetivo es practicar el pensamiento computacional, la optimización de códi
 - [x] **Problem 8:** Largest Product in a Series
 - [x] **Problem 9:** Special Pythagorean Triplet
 - [x] **Problem 10:** Summation of Primes
+- [ ] **Problem 11:** Largest product in a grid
+- [X] **Problem 12:** Highly Divisible Triangular Number
+- [ ] **Problem 13:** Large sum
 - [x] **Problem 14:** Longest Collatz Sequence
+- [ ] **Problem 15:** Lattice paths
 - [x] **Problem 16:** Power Digit Sum
 - [x] **Problem 17:** Number Letter Counts
+- [ ] **Problem 18:** Maximum path sum I
+- [ ] **Problem 19:** Counting Sundays
 - [ ] **Problem 20:** Factorial Digit Sum
